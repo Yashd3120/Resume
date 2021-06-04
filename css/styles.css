@@ -1,0 +1,134 @@
+body{
+    color:#40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    color:#66bfbf; 
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; 
+    margin: 50px auto 0 auto ; 
+}
+
+h2{
+    color:#66bfbf; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999e;
+}
+
+hr{
+    border : dotted #176868 6px;
+    border-bottom:none;
+    width: 4%;
+    margin: 100px auto;
+}
+button:hover{
+    background-color: #1b8b7d;
+    cursor: pointer;
+    text-decoration: none;
+}
+button{
+    color: whitesmoke;
+    background-color:#11999e;
+    border: none;
+    border-radius:8px;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#eaf6f6;
+}
+
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
+
+.top{
+   background-color: #e4f5f9;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0px 20px;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+
+.cloud-top{
+    position: absolute;
+    right: 300px;
+    top : 50px;
+}
+
+.cloud-bottom{
+    position: absolute;
+    left : 480px;
+    bottom: 250px;
+}
+
+
+.yashdeep{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.skill_image{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli_image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.contact-message{
+    width: 40%;
+    margin : 40px auto 60px;
+
+} 
